@@ -17,7 +17,4 @@ The dataset consists of the following files:
 - `unemployment.ipynb`: Jupyter notebook for performing data analysis on the Walmart dataset, including EDA, visualization, and potentially building predictive models.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
-## Getting Started
-
-1. Clone the repository to your local machine:
 
